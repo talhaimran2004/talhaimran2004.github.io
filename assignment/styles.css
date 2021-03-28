@@ -1,0 +1,149 @@
+#name {
+    font-weight: bolder;
+    font-size: x-large;
+    margin-left: 60px;
+    line-height: 10px;
+
+}
+
+#profession {
+    font-size: x-small;
+    font-weight: bold;
+    margin-left: 170px;
+    position: absolute;
+    top: 110px;
+
+}
+
+.intro {
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: large;
+}
+
+.description {
+    margin-left: 45px;
+}
+
+.heading1 {
+    font-weight: bold;
+    font-size: large;
+    position: relative;
+    top: 20px;
+
+}
+
+.description1 {
+    margin-left: 33px;
+    position: relative;
+    top: 20px;
+}
+
+.heading2 {
+    font-weight: bold;
+    font-size: large;
+    position: relative;
+    top: 50px;
+}
+
+.description2 {
+    margin-left: 150px;
+    position: relative;
+    bottom: 10px;
+}
+
+.heading3 {
+    font-weight: bold;
+    font-size: large;
+    position: relative;
+    top: 140px;
+}
+
+.heading4 {
+    font-weight: bold;
+    font-size: large;
+    position: relative;
+    top: 60px;
+}
+
+.ssc {
+    font-weight: bold;
+    font-size: large;
+    margin-left: 90px;
+}
+
+.hsc {
+    font-weight: bold;
+    font-size: large;
+    margin-left: 170px;
+}
+
+.school {
+    font-weight: bold;
+    font-size: large;
+    position: relative;
+    top: 20px;
+    margin-left: 170px;
+}
+
+.school1 {
+    font-weight: bold;
+    font-size: large;
+    margin-left: 170px;
+}
+
+.high {
+    margin-left: 290px;
+}
+
+.contact1 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 77px;
+}
+
+.contact2 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 123px;
+}
+
+.contact3 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 163px;
+}
+
+.contact4 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 175px;
+}
+
+.detail1 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 50px;
+}
+
+.detail2 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 90px;
+}
+
+.detail3 {
+    margin-left: 170px;
+    position: relative;
+    bottom: 135px;
+}
+
+.link {
+    margin-left: 1050px;
+    position: relative;
+    bottom: 1060px;
+}
